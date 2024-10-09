@@ -1,4 +1,3 @@
-package main.java.biblioteca.Principal;
+public static void main (String[] args) {
 
-public class Main {
 }

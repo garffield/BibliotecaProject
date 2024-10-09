@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52e26209-f928-45ee-8718-afacccd2b86b" name="Changes" comment="Arquitetura">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BibliotecaCRUD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BibliotecaCRUD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/Principal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/Principal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/util/ConexaoBD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/util/ConexaoBD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
       <list>
         <option value="Kotlin File" />
         <option value="module-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,6 +53,21 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BibliotecaCRUD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
