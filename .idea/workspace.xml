@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="52e26209-f928-45ee-8718-afacccd2b86b" name="Changes" comment="Atributos e Métodos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/model/Emprestimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/model/Emprestimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/model/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
