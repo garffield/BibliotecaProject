@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="52e26209-f928-45ee-8718-afacccd2b86b" name="Changes" comment="Atributos e Métodos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/model/Emprestimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/model/Emprestimo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/model/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/model/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/model/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/service/EmprestimoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/service/EmprestimoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/biblioteca/service/LivroService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/biblioteca/service/LivroService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729711063635</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Atributos e Métodos">
+      <option name="closed" value="true" />
+      <created>1730231592820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730231592821</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
