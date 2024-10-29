@@ -10,6 +10,8 @@ public class Livro implements Interface.interfaceCrud {
     public String categoria;
     public Boolean statusLivro;
 
+    public String[] arrayLivros = {};
+
     public Livro(Integer idLivro, String titulo, String autor, String isbn, String editora, String anoPublicacao, String categoria, Boolean statusLivro) {
         this.idLivro = idLivro;
         this.titulo = titulo;
