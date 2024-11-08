@@ -1,6 +1,6 @@
 package main.java.biblioteca.model;
 
-public class Usuario implements Interface.interfaceCrud {
+public class Usuario {
     public Integer idUsuario;
     public String user;
     public String endereco;
@@ -19,8 +19,4 @@ public class Usuario implements Interface.interfaceCrud {
         this.status = status;
     }
 
-    public void cadastrar(){}
-    public void atualizar(){}
-    public void excluir(){}
-    public void consultar(){}
 }
